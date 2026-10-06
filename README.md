@@ -10,10 +10,10 @@ I build robotic and intelligent-manufacturing systems that connect **perception,
 | --- | --- |
 | [🤖 Task-Registered Robotic Welding](https://github.com/wwryy/robotic-welding-platform) | Synthetic data, semantic perception, RGB-D geometry, 3D weld paths, and robot interfaces |
 | [🦾 Humanoid Motion Learning](https://github.com/wwryy/humanoid-robot-learning) | Video motion recovery, retargeting, reinforcement learning, and Unitree G1 validation |
-| [🚗 STM32 Infrared Smart Car](https://github.com/wwryy/stm32-infrared-smart-car) | Open-source embedded control with line following, obstacle avoidance, NEC remote control, and PWM motor drive |
+|
 | [🎮 Tetris Closed-Loop Control](https://github.com/wwryy/tetris-closed-loop-control) | Vision-based state extraction, heuristic planning, neural policies, and automatic execution |
 | [🥬 Leafy-Vegetable Processing System](https://github.com/wwryy/leafy-vegetable-processing-system) | Mechanical automation, coordinated motor control, weighing, indexing, and packaging |
-| [☀️ Solar Optical Lighting System](https://github.com/wwryy/solar-optical-lighting-system) | Fresnel optics, fiber daylighting, photovoltaic storage, solar tracking, and prototype validation |
+| [☀️ Solar Optical Lighting System](https://github.com/wwryy/solar-optical-lighting-system) | Fresnel optics, fiber daylighting, photovoltaic storage, solar tracking, and prototype validation | [🚗 STM32 Infrared Smart Car](https://github.com/wwryy/stm32-infrared-smart-car) | Open-source embedded control with line following, obstacle avoidance, NEC remote control, and PWM motor drive |
 
 ## Research Interests
 
